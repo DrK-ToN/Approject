@@ -47,6 +47,7 @@ Execute no emulador ou dispositivo:
 bash
 Copiar código
 yarn start
+
 🖼️ Preview
 
 <img width="170" height="357" alt="Captura de tela 2025-09-04 125956" src="https://github.com/user-attachments/assets/c4dee214-a65f-431b-9559-c691fd883db4" />
@@ -59,29 +60,21 @@ yarn start
 
 
 📌 Estrutura de Pastas
-bash
-Copiar código
-.
-|--- App.js
-|---screens/
-|   |---Home.js
-|   |---IMC.js
 
-
-
+```bash
 .
 ├── App.js
 ├── screens/
-│   ├── HomeScreen.js
-│   ├── ImcScreen.js
-│   ├── FilmesScreen.js
-│   ├── ViagensScreen.js
-│   ├── TreinoScreen.js
-│   ├── VendasScreen.js
-│   ├── SaudeScreen.js
-│   ├── DespesasScreen.js
-│   └── AdivinhaScreen.js
-└── README.md
+│ ├── Home.js
+│ ├── IMC.js
+│ ├── Filmes.js
+│ ├── Viagens.js
+│ ├── Treino.js
+│ ├── Vendas.js
+│ ├── Saude.js
+│ ├── Despesas.js
+│ └── Adivinha.js
+```
 ✨ Autor
 Feito por DrK-ToN
 
