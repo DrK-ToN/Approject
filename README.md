@@ -75,6 +75,5 @@ yarn start
 │ ├── Despesas.js
 │ └── Adivinha.js
 ```
-✨ Autor
-Feito por DrK-ToN
+✨ Autor DrK-ToN
 
