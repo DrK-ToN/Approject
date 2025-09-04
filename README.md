@@ -62,6 +62,14 @@ yarn start
 bash
 Copiar código
 .
+|--- App.js
+|---screens/
+|   |---Home.js
+|   |---IMC.js
+
+
+
+.
 ├── App.js
 ├── screens/
 │   ├── HomeScreen.js
